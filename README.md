@@ -5,7 +5,7 @@ Dubai, United Arab Emirates • +971 56 259 7537 • 6401hassan@gmail.com
 ---
 
 ## 🔹 PROFESSIONAL SUMMARY  
-Results-driven Senior Software Engineer and Project Leader with 9+ years of experience in developing scalable enterprise solutions, leading cross-functional teams, and managing complex projects across FinTech, IoT, Healthcare, and Telecom sectors. Proven ability to translate business needs into technical solutions, manage Agile sprints, and deliver robust, secure platforms. Specialized in .NET technologies, cloud integrations, and real-time tracking systems.
+Results-driven Senior Software Engineer and Project Leader with 10 years of experience in developing scalable enterprise solutions, leading cross-functional teams, and managing complex projects across FinTech, IoT, Healthcare, and ERP sectors. Proven ability to translate business needs into technical solutions, manage Agile sprints, and deliver robust, secure platforms. Specialized in Backend and Front end technologies, application integrations, and real-time tracking systems.
 
 ---
 
@@ -23,16 +23,16 @@ Results-driven Senior Software Engineer and Project Leader with 9+ years of expe
 
 ### **Senior Software Engineer**  
 **Suadeo.fr (Dubai)**  
-*Jun 2024 – Present*  
+*Jun 2024 – Present*
 - Developed scalable backend services for Suadeo’s SDS platform using **ASP.NET Core**, improving system performance and data security across enterprise deployments.
-- Designed and developed a **Low-code/No-code** feature in the SDS platform, enabling users to build custom pipelines for executing data-intensive ETL processes
+- Designed and developed a **Low-code/No-code** Data Integration and Pipeline feature in the SDS platform, enabling users to build custom pipelines for executing data-intensive Extract Transform Load(ETP) processes
 - Designed and implemented real-time messaging services leveraging **SignalR**'s robust communication features.
-- Migrated a complex **French government reporting tool** from undocumented Java code to .NET Core; architected new system design aligned with BI and compliance standards.  
+- Migrated a complex **French government reporting tool** from undocumented Java code to .NET Core.
 - Built interactive dashboards and DevExpress charting components for business intelligence applications, enabling users to visualize and extract insights from large datasets.  
 - Integrated Figma-based UI designs with **JavaScript**, **jQuery**, and **DevExpress Controls**, collaborating closely with UI/UX teams to enhance usability and responsiveness.  
 - Designed and optimized **SQL Server** and **PostgreSQL** queries, increasing data retrieval efficiency across reporting workflows.  
-- Developed and debugged RESTful **APIs** using ASP.NET Core and Entity Framework; ensured reliable data exchange across modules and external systems.  
-- Managed codebase via **Git**, deployed via **GitLab CI/CD pipelines**, and tracked sprints/tasks using **Jira**.  
+- Developed and debugged RESTful **API** using ASP.NET Core and Entity Framework; ensured reliable data exchange across modules and external systems.  
+- Managed codebase via **Git**, deployed via **Azure CI/CD pipelines**, and tracked sprints/tasks using **Jira**.  
 
 **Key Achievements**:  
 - Spearheaded the successful migration of a national government system to .NET, modernizing architecture and reducing maintenance complexity.  
@@ -47,8 +47,7 @@ Results-driven Senior Software Engineer and Project Leader with 9+ years of expe
 - Collaborated directly with clients to gather requirements, decompose features into user stories, and assign tasks within the team.  
 - Led sprint planning, conducted daily standups, and provided progress updates to the CTO.  
 - Developed scalable modules for **app.fusefinancial.ca**, a Canadian FinTech platform supporting virtual cards, invoicing, payments, and expense management.  
-- Designed core backend services using **.NET Core (MVC + Web API)** with Angular on the frontend.  
-- Managed project timelines, delivery plans, and client review cycles for **Nexafe** – a workplace safety system.  
+- Designed core backend services using **.NET Core (MVC + Web API)** with Angular on the frontend.   
 - Tools: **Jira, Bitbucket, MSSQL, Angular, .NET Core**
 
 ### **Senior Software Engineer / Team Lead / Project Manager**  
@@ -57,11 +56,12 @@ Results-driven Senior Software Engineer and Project Leader with 9+ years of expe
 - Managed a cross-functional team of 12, including QAs and developers, delivering high-impact solutions across IoT, security, and logistics domains.  
 - Acted as both project manager and technical lead for clients like **CDC, Engro Chemicals, and NLC**.  
 - Architected and delivered:
-  - **DOT Fuel Genset/Station** – real-time IoT fuel monitoring  
-  - **Entree** – visitor management with Outlook integration  
-  - **Workforce 360** – attendance & route allocation system
-  - **TimePay** - Attendance & Human Resource Management Platform 
-  - **Pfizer Employee System**, **Gate Pass Management**, **Transport Feedback Tool**  
+  - **DOT Fuel Genset/Station** – Real-time IOT Based Fuel Monitoring System 
+  - **Entree** – Visitor Management with IOT Device integration in Central Depository Company Pakistan
+  - **Workforce 360** – Attendance & Route allocation system
+  - **TimePay** - Attendance & Human Resource Management Platform
+  - **Vehicle Tracking** - Vehicle Tracking and Monitoring System
+  - **Pfizer Employee Management System**, **Gate Pass Management**, **Transport Feedback Tool**  
 - Designed and deployed REST APIs and services using **ASP.NET MVC**, **Web API**, and **SQL Server**.  
 - Tools: **Git, Asana, MSSQL, Web Services, IoT Integration APIs**
 
@@ -120,7 +120,7 @@ Courses: Web Engineering, DBMS | FYP Advisory Role
 - Canadian FinTech platform with virtual cards, invoicing, expense tracking  
 - Stack: .NET Core, Angular, Azure, MSSQL, REST APIs  
 
-**DOT Fuel Genset & Station**  
+**DOT Fuel Genset & Petrol/Gasoline Station**  
 - IoT solution for real-time fuel station monitoring  
 - Stack: ASP.NET MVC, Web API, MSSQL, IoT APIs  
 
